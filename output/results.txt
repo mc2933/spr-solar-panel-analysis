@@ -1,0 +1,822 @@
+SOLAR PANEL REBOOT — PANEL CHARACTERIZATION RESULTS
+
+Data folder: C:\Users\maddi\Documents\cusd_spr\solar_analysis\data
+
+Irradiance lookup: C:\Users\maddi\Documents\cusd_spr\solar_analysis\measured_irradiance.csv
+
+Target irradiance: 1000.0 W/m²
+
+Production smoothing: M=3, edge mode='edge'
+
+
+IMPORTANT: scaled results are first-order irradiance estimates, not verified STC ratings.
+
+
+========================================================================
+Panel: panel_01
+Input file: data\panel_01.csv
+Raw sample count: 500
+Measured irradiance: 281.1714 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.556550
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_01_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 21.7487 V
+  Imp: 2.2424 A
+  Pmax: 48.7699 W
+  Voc: 39.2458 V (nearest sample (approximation))
+  Isc: 2.5497 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 21.7487 V
+  Imp: 2.1882 A
+  Pmax: 47.5898 W
+  Voc: 39.2458 V (nearest sample (approximation))
+  Isc: 2.4581 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 21.7487 V
+  Imp: 7.7823 A
+  Pmax: 169.2555 W
+  Voc: 39.2458 V (nearest sample (approximation))
+  Isc: 8.7424 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_02
+Input file: data\panel_02.csv
+Raw sample count: 494
+Measured irradiance: 354.2915 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 2.822535
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_02_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 33.7051 V
+  Imp: 1.8477 A
+  Pmax: 62.2764 W
+  Voc: 39.8577 V (nearest sample (approximation))
+  Isc: 3.1662 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 33.7051 V
+  Imp: 1.8104 A
+  Pmax: 61.0190 W
+  Voc: 39.8577 V (nearest sample (approximation))
+  Isc: 3.1303 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 33.7051 V
+  Imp: 5.1099 A
+  Pmax: 172.2284 W
+  Voc: 39.8577 V (nearest sample (approximation))
+  Isc: 8.8353 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_03
+Input file: data\panel_03.csv
+Raw sample count: 100
+Measured irradiance: 330.0271 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.030054
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_03_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 34.4294 V
+  Imp: 1.1843 A
+  Pmax: 40.7762 W
+  Voc: 40.1941 V (nearest sample (approximation))
+  Isc: 1.2088 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 34.7572 V
+  Imp: 0.9313 A
+  Pmax: 32.3711 W
+  Voc: 40.4695 V (nearest sample (approximation))
+  Isc: 1.4462 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 34.7572 V
+  Imp: 2.8220 A
+  Pmax: 98.0862 W
+  Voc: 40.4695 V (nearest sample (approximation))
+  Isc: 4.3819 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_04
+Input file: data\panel_04.csv
+Raw sample count: 100
+Measured irradiance: 309.8056 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.227831
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_04_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 34.1466 V
+  Imp: 0.6858 A
+  Pmax: 23.4184 W
+  Voc: 41.9077 V (nearest sample (approximation))
+  Isc: 1.1416 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 34.8195 V
+  Imp: 0.6723 A
+  Pmax: 23.4075 W
+  Voc: 41.8771 V (nearest sample (approximation))
+  Isc: 1.1403 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 34.8195 V
+  Imp: 2.1699 A
+  Pmax: 75.5554 W
+  Voc: 41.8771 V (nearest sample (approximation))
+  Isc: 3.6806 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_05
+Input file: data\panel_05.csv
+Raw sample count: 491
+Measured irradiance: 294.9326 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.390605
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_05_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 32.6432 V
+  Imp: 2.4418 A
+  Pmax: 79.7096 W
+  Voc: 40.3166 V (nearest sample (approximation))
+  Isc: 1.9799 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 35.3327 V
+  Imp: 2.2078 A
+  Pmax: 78.0090 W
+  Voc: 40.3472 V (nearest sample (approximation))
+  Isc: 2.0980 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 35.3327 V
+  Imp: 7.4859 A
+  Pmax: 264.4977 W
+  Voc: 40.3472 V (nearest sample (approximation))
+  Isc: 7.1134 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_06
+Input file: data\panel_06.csv
+Raw sample count: 100
+Measured irradiance: 353.7696 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 2.826698
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_06_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 24.1859 V
+  Imp: 1.5567 A
+  Pmax: 37.6504 W
+  Voc: 40.3472 V (nearest sample (approximation))
+  Isc: 2.0552 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 23.0481 V
+  Imp: 1.4441 A
+  Pmax: 33.2841 W
+  Voc: 41.8470 V (nearest sample (approximation))
+  Isc: 1.7955 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 23.0481 V
+  Imp: 4.0821 A
+  Pmax: 94.0841 W
+  Voc: 41.8470 V (nearest sample (approximation))
+  Isc: 5.0752 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_07
+Input file: data\panel_07.csv
+Raw sample count: 100
+Measured irradiance: 292.4212 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.419724
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_07_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 22.4608 V
+  Imp: 0.7692 A
+  Pmax: 17.2779 W
+  Voc: 41.1733 V (nearest sample (approximation))
+  Isc: 1.1843 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 22.4608 V
+  Imp: 0.7672 A
+  Pmax: 17.2322 W
+  Voc: 41.1733 V (nearest sample (approximation))
+  Isc: 1.1816 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 22.4608 V
+  Imp: 2.6236 A
+  Pmax: 58.9293 W
+  Voc: 41.1733 V (nearest sample (approximation))
+  Isc: 4.0408 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_08
+Input file: data\panel_08.csv
+Raw sample count: 100
+Measured irradiance: 293.8233 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.403406
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_08_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 23.1717 V
+  Imp: 1.2474 A
+  Pmax: 28.9048 W
+  Voc: 41.2039 V (nearest sample (approximation))
+  Isc: 2.0858 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 22.0628 V
+  Imp: 1.0874 A
+  Pmax: 23.9900 W
+  Voc: 42.7648 V (nearest sample (approximation))
+  Isc: 1.8212 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 22.0628 V
+  Imp: 3.7007 A
+  Pmax: 81.6477 W
+  Voc: 42.7648 V (nearest sample (approximation))
+  Isc: 6.1984 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_09
+Input file: data\panel_09.csv
+Raw sample count: 500
+Measured irradiance: 351.2968 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 2.846596
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_09_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 23.5320 V
+  Imp: 2.8366 A
+  Pmax: 66.7508 W
+  Voc: 41.6934 V (nearest sample (approximation))
+  Isc: 1.7907 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 23.5320 V
+  Imp: 2.8006 A
+  Pmax: 65.9049 W
+  Voc: 41.6934 V (nearest sample (approximation))
+  Isc: 1.9060 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 23.5320 V
+  Imp: 7.9723 A
+  Pmax: 187.6045 W
+  Voc: 41.6934 V (nearest sample (approximation))
+  Isc: 5.4257 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_10
+Input file: data\panel_10.csv
+Raw sample count: 500
+Measured irradiance: 330.2164 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.028317
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_10_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 36.3303 V
+  Imp: 1.4529 A
+  Pmax: 52.7856 W
+  Voc: 40.8978 V (nearest sample (approximation))
+  Isc: 1.7846 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 34.8013 V
+  Imp: 1.4604 A
+  Pmax: 50.8236 W
+  Voc: 40.9590 V (nearest sample (approximation))
+  Isc: 1.6734 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 34.8013 V
+  Imp: 4.4225 A
+  Pmax: 153.9101 W
+  Voc: 40.9590 V (nearest sample (approximation))
+  Isc: 5.0675 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_11
+Input file: data\panel_11.csv
+Raw sample count: 497
+Measured irradiance: 317.7590 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.147039
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_11_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 24.6114 V
+  Imp: 1.3654 A
+  Pmax: 33.6053 W
+  Voc: 41.7544 V (nearest sample (approximation))
+  Isc: 1.4000 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 24.6114 V
+  Imp: 1.3085 A
+  Pmax: 32.2031 W
+  Voc: 41.7544 V (nearest sample (approximation))
+  Isc: 1.4984 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 24.6114 V
+  Imp: 4.1178 A
+  Pmax: 101.3444 W
+  Voc: 41.7544 V (nearest sample (approximation))
+  Isc: 4.7155 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_12
+Input file: data\panel_12.csv
+Raw sample count: 499
+Measured irradiance: 281.4474 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.553062
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_12_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 34.2562 V
+  Imp: 1.8762 A
+  Pmax: 64.2706 W
+  Voc: 40.6531 V (nearest sample (approximation))
+  Isc: 1.9372 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 34.2562 V
+  Imp: 1.8443 A
+  Pmax: 63.1785 W
+  Voc: 40.6531 V (nearest sample (approximation))
+  Isc: 2.0647 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 34.2562 V
+  Imp: 6.5529 A
+  Pmax: 224.4773 W
+  Voc: 40.6531 V (nearest sample (approximation))
+  Isc: 7.3361 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_13
+Input file: data\panel_13.csv
+Raw sample count: 500
+Measured irradiance: 308.0011 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.246742
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_13_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 33.2679 V
+  Imp: 1.2515 A
+  Pmax: 41.6344 W
+  Voc: 40.2860 V (nearest sample (approximation))
+  Isc: 1.3166 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 34.7662 V
+  Imp: 1.1708 A
+  Pmax: 40.7034 W
+  Voc: 40.2860 V (nearest sample (approximation))
+  Isc: 1.2440 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 34.7662 V
+  Imp: 3.8012 A
+  Pmax: 132.1535 W
+  Voc: 40.2860 V (nearest sample (approximation))
+  Isc: 4.0390 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_14
+Input file: data\panel_14.csv
+Raw sample count: 500
+Measured irradiance: 349.4662 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 2.861507
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_14_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 22.0366 V
+  Imp: 1.0460 A
+  Pmax: 23.0498 W
+  Voc: 40.2247 V (nearest sample (approximation))
+  Isc: 1.0684 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 20.9358 V
+  Imp: 1.0202 A
+  Pmax: 21.3588 W
+  Voc: 40.2859 V (nearest sample (approximation))
+  Isc: 1.1728 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 20.9358 V
+  Imp: 2.9193 A
+  Pmax: 61.1183 W
+  Voc: 40.2859 V (nearest sample (approximation))
+  Isc: 3.3560 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_15
+Input file: data\panel_15.csv
+Raw sample count: 500
+Measured irradiance: 309.4344 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.231703
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_15_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 35.2376 V
+  Imp: 2.0308 A
+  Pmax: 71.5610 W
+  Voc: 40.5001 V (nearest sample (approximation))
+  Isc: 2.2424 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 35.2376 V
+  Imp: 1.9779 A
+  Pmax: 69.6968 W
+  Voc: 40.5001 V (nearest sample (approximation))
+  Isc: 2.1421 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 35.2376 V
+  Imp: 6.3920 A
+  Pmax: 225.2393 W
+  Voc: 40.5001 V (nearest sample (approximation))
+  Isc: 6.9225 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_16
+Input file: data\panel_16.csv
+Raw sample count: 500
+Measured irradiance: 356.1890 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 2.807498
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_16_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 24.3482 V
+  Imp: 2.1753 A
+  Pmax: 52.9642 W
+  Voc: 41.7851 V (nearest sample (approximation))
+  Isc: 1.6340 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 24.3482 V
+  Imp: 2.1210 A
+  Pmax: 51.6430 W
+  Voc: 41.8463 V (nearest sample (approximation))
+  Isc: 1.7799 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 24.3482 V
+  Imp: 5.9548 A
+  Pmax: 144.9877 W
+  Voc: 41.8463 V (nearest sample (approximation))
+  Isc: 4.9969 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_17
+Input file: data\panel_17.csv
+Raw sample count: 499
+Measured irradiance: 322.3497 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.102221
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_17_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 23.7040 V
+  Imp: 2.0613 A
+  Pmax: 48.8619 W
+  Voc: 40.9896 V (nearest sample (approximation))
+  Isc: 2.4947 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 23.7040 V
+  Imp: 2.0125 A
+  Pmax: 47.7043 W
+  Voc: 40.9896 V (nearest sample (approximation))
+  Isc: 2.4561 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 23.7040 V
+  Imp: 6.2432 A
+  Pmax: 147.9892 W
+  Voc: 40.9896 V (nearest sample (approximation))
+  Isc: 7.6193 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_18
+Input file: data\panel_18.csv
+Raw sample count: 497
+Measured irradiance: 310.0183 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.225616
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_18_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 34.6794 V
+  Imp: 1.5343 A
+  Pmax: 53.2096 W
+  Voc: 40.8978 V (nearest sample (approximation))
+  Isc: 1.9576 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 34.6794 V
+  Imp: 1.4882 A
+  Pmax: 51.6101 W
+  Voc: 40.8978 V (nearest sample (approximation))
+  Isc: 2.0444 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 34.6794 V
+  Imp: 4.8004 A
+  Pmax: 166.4743 W
+  Voc: 40.8978 V (nearest sample (approximation))
+  Isc: 6.5944 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_19
+Input file: data\panel_19.csv
+Raw sample count: 500
+Measured irradiance: 304.3181 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.286035
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_19_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 35.3570 V
+  Imp: 1.8314 A
+  Pmax: 64.7530 W
+  Voc: 39.7353 V (nearest sample (approximation))
+  Isc: 1.5710 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 35.3570 V
+  Imp: 1.7975 A
+  Pmax: 63.5539 W
+  Voc: 39.7353 V (nearest sample (approximation))
+  Isc: 1.6198 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 35.3570 V
+  Imp: 5.9066 A
+  Pmax: 208.8403 W
+  Voc: 39.7353 V (nearest sample (approximation))
+  Isc: 5.3227 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_20
+Input file: data\panel_20.csv
+Raw sample count: 495
+Measured irradiance: 343.7317 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 2.909246
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_20_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 38.0412 V
+  Imp: 1.2963 A
+  Pmax: 49.3112 W
+  Voc: 40.4695 V (nearest sample (approximation))
+  Isc: 2.5558 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 38.0412 V
+  Imp: 1.2461 A
+  Pmax: 47.4018 W
+  Voc: 40.4695 V (nearest sample (approximation))
+  Isc: 2.5036 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 38.0412 V
+  Imp: 3.6251 A
+  Pmax: 137.9035 W
+  Voc: 40.4695 V (nearest sample (approximation))
+  Isc: 7.2835 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_22
+Input file: data\panel_22.csv
+Raw sample count: 500
+Measured irradiance: 397.4043 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 2.516329
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_22_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 33.9103 V
+  Imp: 1.2515 A
+  Pmax: 42.4384 W
+  Voc: 40.8366 V (nearest sample (approximation))
+  Isc: 0.9564 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 35.2863 V
+  Imp: 1.1328 A
+  Pmax: 39.9722 W
+  Voc: 40.8672 V (nearest sample (approximation))
+  Isc: 0.9598 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 35.2863 V
+  Imp: 2.8505 A
+  Pmax: 100.5831 W
+  Voc: 40.8672 V (nearest sample (approximation))
+  Isc: 2.4153 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_23
+Input file: data\panel_23.csv
+Raw sample count: 500
+Measured irradiance: 313.4571 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.190229
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_23_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 33.2089 V
+  Imp: 1.4000 A
+  Pmax: 46.4934 W
+  Voc: 40.2248 V (nearest sample (approximation))
+  Isc: 2.5415 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 33.2089 V
+  Imp: 1.3566 A
+  Pmax: 45.0519 W
+  Voc: 40.2248 V (nearest sample (approximation))
+  Isc: 2.5212 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 33.2089 V
+  Imp: 4.3279 A
+  Pmax: 143.7258 W
+  Voc: 40.2248 V (nearest sample (approximation))
+  Isc: 8.0432 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+========================================================================
+Panel: panel_24
+Input file: data\panel_24.csv
+Raw sample count: 500
+Measured irradiance: 302.6268 W/m²
+Target irradiance: 1000.0 W/m²
+Linear scale factor applied to current: 3.304400
+Smoothing: moving average M=3, edge mode='edge'
+Plot: output\plots\panel_24_iv.png
+
+RAW MEASURED CURVE
+  Vmp: 34.8053 V
+  Imp: 1.7663 A
+  Pmax: 61.4763 W
+  Voc: 40.5919 V (nearest sample (approximation))
+  Isc: 2.8427 A (nearest sample (approximation))
+
+SMOOTHED MEASURED CURVE
+  Vmp: 33.2460 V
+  Imp: 1.8002 A
+  Pmax: 59.8496 W
+  Voc: 40.5919 V (nearest sample (approximation))
+  Isc: 2.7918 A (nearest sample (approximation))
+
+SCALED CURVE ESTIMATE
+  Vmp: 33.2460 V
+  Imp: 5.9486 A
+  Pmax: 197.7670 W
+  Voc: 40.5919 V (nearest sample (approximation))
+  Isc: 9.2253 A (nearest sample (approximation))
+
+Voc difference (scaled - smoothed measured): 0.00000000 V
+Interpretation: scaled values are first-order irradiance estimates, not verified STC ratings. STC also specifies cell temperature and reference spectrum, which are not established by irradiance scaling alone.
+
+
+SUMMARY
+Successful panels: 23
+Failed/skipped panels: 0
